@@ -17,7 +17,7 @@ This is a simple script to deploy SSH Keys with ansible. This role takes care of
 
 I'm using AWS server as ansible master server. So, i've attached roll to the instance. Else we can add access_key and secret_key in playbook
 
-For detailed code please check `ec2-key.yml`
+For detailed code please check `key.yml`
 
 ```
 ---
